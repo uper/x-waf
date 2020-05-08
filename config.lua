@@ -28,7 +28,7 @@ local _M = {
     -- log dir
     config_log_dir = "/tmp/",
     -- rule setting
-    config_rule_dir = "/usr/local/openresty/nginx/conf/x-waf/rules",
+    config_rule_dir = "/usr/local/nginx/conf/x-waf/rules",
     -- enable/disable white url
     config_white_url_check = "on",
     -- enable/disable white ip
