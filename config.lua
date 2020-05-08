@@ -58,7 +58,7 @@ local _M = {
     <html>
     <head>
     <meta charset="UTF-8">
-    <title>MIDUN WAF</title>
+    <title>WX WAF</title>
     </head>
       <body>
         <div>
@@ -71,7 +71,7 @@ local _M = {
             欢迎在遵守白帽子道德准则的情况下进行安全测试。
           </div>
           <div class="cell">
-            联系方式：http://xsec.io
+            &copy; wuxuwang.com
           </div>
         </div>
       </div>
